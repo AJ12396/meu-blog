@@ -46,3 +46,7 @@ body {
 .acor {
     margin-bottom: 20px;
 }
+
+#contato iframe {
+    width: 100%;
+}
