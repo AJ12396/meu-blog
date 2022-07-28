@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+.viagem-main img {
+    width: 100%;
+}
+
+.viagem-main h5, p {
+    margin: 20px;
+}
+
+.viagem-main {
+    border: 1px solid lightpink;
+}
+
+.filmes-head i {
+    float: right;
+
+}
+
+.filmes-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.films-text span {
+    color: yellow;
+}
+
+.imagens {
+    width: 100%;
+}
+
+.book {
+    margin-top: 20px;
+}
+
+.acor {
+    margin-bottom: 20px;
+}
